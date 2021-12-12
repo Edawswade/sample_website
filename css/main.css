@@ -4,3 +4,39 @@
 .nav-spacing {
   margin: 0 0 0 10px;
 }
+
+/* .nav-decor { */
+/* color: black; */
+/* text-decoration: none; */
+/* } */
+.img-large {
+  display: block;
+  margin: 0 auto;
+}
+
+.image-link {
+  text-decoration: none;
+}
+.header {
+  text-align: center;
+  margin: 0 auto 80px;
+}
+
+.book-blurb {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+
+/*  img-book works within a book-blurb div */
+.img-book {
+  height: 200px;
+  float: left;
+  margin: 0 40px 0 0;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 20px;
+}
